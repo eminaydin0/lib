@@ -4,6 +4,11 @@ function emin() {
   return (
     <div>
       hasdhnakncsnd
+      <button>
+        merhaba
+      </button>
+      paBJAVA DGAUA ABHAS
+      <div className="kkdsas">jnskdnd</div>
     </div>
   )
 }
