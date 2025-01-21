@@ -11,6 +11,9 @@ export function App() {
         emin nk sahjs ahsa  dsnhasbhaasx
         mustafa pull attısss
       </div>
+      <button>
+        emib
+      </button>
     </>
   )
 }
