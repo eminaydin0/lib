@@ -1,11 +1,12 @@
 import React from 'react'
 
-function Home() {
+function Life() {
   return (
     <div>
-      Home Page
+        Life Page
     </div>
   )
 }
 
-export default Home
+export default Life
+
